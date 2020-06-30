@@ -1,4 +1,4 @@
-# Matematica Computacional
+# Matemática Computacional
 
 Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve.
 
