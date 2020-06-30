@@ -1,6 +1,6 @@
 # [Matemática Computacional](https://j5r.github.io/matematica-computacional)
 
-Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve.
+Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve no meu [Canal YouTube](https://www.youtube.com/channel/UClORU5ukkUyaxP-RfVn5hSg).
 
 O curso será criado baseado nas linguagens de programação [Octave](https://www.gnu.org/software/octave) (versão alternativa _free_ do Matlab e que pode ser usada no [navegador](http://octave-online.net))  e [Python](https://www.python.org).
 
