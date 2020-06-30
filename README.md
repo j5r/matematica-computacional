@@ -1,4 +1,4 @@
-# Matemática Computacional
+# [Matemática Computacional](https://j5r.github.io/matematica-computacional)
 
 Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve.
 
