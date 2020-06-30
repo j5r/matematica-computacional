@@ -1,4 +1,4 @@
-# matematica-computacional
+# Matematica Computacional
 
 Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve.
 
@@ -11,7 +11,7 @@ Teremos vídeos das aulas e os códigos desenvolvidos em cada aula. Também tere
 
 # PROBABILIDADE E ESTATÍSTICA
 
-## TEORIA BÁSICA DE PROBABILIDADE
+## TEORIA BÁSICA DE PROBABILIDADE (NADA AINDA)
 
 * Experimentos aleatórios, eventos, espaço amostral, definições de probabilidade
   [[vídeo]]() [[código]]() [[pdf]]()
@@ -31,6 +31,6 @@ Teremos vídeos das aulas e os códigos desenvolvidos em cada aula. Também tere
   [[vídeo]]() [[código]]() [[pdf]]()
 
 
-# CÁLCULO NUMÉRICO (MÉTODOS NUMÉRICOS)
+# CÁLCULO NUMÉRICO (MÉTODOS NUMÉRICOS) (NADA AINDA)
 
 
