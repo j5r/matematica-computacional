@@ -13,22 +13,22 @@ Teremos vídeos das aulas e os códigos desenvolvidos em cada aula. Também tere
 
 ## TEORIA BÁSICA DE PROBABILIDADE
 
-### Experimentos aleatórios, eventos, espaço amostral, definições de probabilidade
-  [vídeo]() [código]() [pdf]()
-### Propriedades das probabilidades
-  [vídeo]() [código]() [pdf]()
-### Probabilidade condicional, independência estatística, árvore de probabiliades
-  [vídeo]() [código]() [pdf]()
-### Teorema de Bayes
-  [vídeo]() [código]() [pdf]()
-### Variáveis aleatórias, discretas, contínuas
-  [vídeo]() [código]() [pdf]()
-### Função distribuição de probabilidade (fdp) e função de probabilidade acumulada (fda)
-  [vídeo]() [código]() [pdf]()
-### Função densidade de probabilidade (fdp) e função de distribuição acumulada (fda)
-  [vídeo]() [código]() [pdf]()
-### Valor esperado/esperança/média, variância e desvio padrão
-  [vídeo]() [código]() [pdf]()
+* Experimentos aleatórios, eventos, espaço amostral, definições de probabilidade
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Propriedades das probabilidades
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Probabilidade condicional, independência estatística, árvore de probabiliades
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Teorema de Bayes
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Variáveis aleatórias, discretas, contínuas
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Função distribuição de probabilidade (fdp) e função de probabilidade acumulada (fda)
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Função densidade de probabilidade (fdp) e função de distribuição acumulada (fda)
+  [[vídeo]]() [[código]]() [[pdf]]()
+* Valor esperado/esperança/média, variância e desvio padrão
+  [[vídeo]]() [[código]]() [[pdf]]()
 
 
 # CÁLCULO NUMÉRICO (MÉTODOS NUMÉRICOS)
