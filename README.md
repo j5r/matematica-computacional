@@ -1,4 +1,4 @@
-# [Matemática Computacional](https://j5r.github.io/matematica-computacional)
+# [Matemática Computacional](https://j5r.github.io/matematica-computacional){:target="_blank"}
 
 Material de apoio às aulas de matemática aplicada ou computacional, que serão adicionadas em breve.
 
