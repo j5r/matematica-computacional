@@ -33,11 +33,9 @@ Teremos vídeos das aulas e os códigos desenvolvidos em cada aula. Também tere
 
 # CÁLCULO NUMÉRICO (MÉTODOS NUMÉRICOS) (NADA AINDA)
 
-
-[LaTeX](https://www.codecogs.com/latex/eqneditor.php)
-
 <a href="https://www.codecogs.com/latex/eqneditor.php" target="_blank"> Teste com tag HTML</a>
 
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{180}&space;\large&space;x_{k&plus;1}&space;=&space;Ax_k&space;&plus;&space;Bu_k" title="Sistema dinâmico" />
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{180}&space;\large&space;x_{k&plus;1}&space;=&space;Ax_k&space;&plus;&space;Bu_k" title="Sistema dinâmico"
+style="margin:auto;" />
 
 <img src="https://latex.codecogs.com/png.latex?\bg_white&space;\fn_cs&space;\large&space;\begin{bmatrix}&space;a&space;&&space;b&space;&&space;c\\&space;d&space;&&space;e&space;&&space;f\\&space;g&space;&&space;h&space;&&space;i&space;\end{bmatrix}&space;\begin{bmatrix}&space;x\\&space;y\\&space;z&space;\end{bmatrix}=&space;\begin{bmatrix}&space;p\\&space;q\\&space;r&space;\end{bmatrix}" title="Sistema linear" />
